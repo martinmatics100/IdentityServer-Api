@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-IdentityServer\\IdentityServer-Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{917FE096-72FF-48A8-BE9C-97A4559D36F0}|src\\SchoolPilot_IdentityServer.Infrastructure\\SchoolPilot_IdentityServer.Infrastructure.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\01-schoolpilot\\schoolpilot-identityserver\\identityserver-api\\src\\schoolpilot_identityserver.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917FE096-72FF-48A8-BE9C-97A4559D36F0}|src\\SchoolPilot_IdentityServer.Infrastructure\\SchoolPilot_IdentityServer.Infrastructure.csproj|solutionrelative:src\\schoolpilot_identityserver.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917FE096-72FF-48A8-BE9C-97A4559D36F0}|src\\SchoolPilot_IdentityServer.Infrastructure\\SchoolPilot_IdentityServer.Infrastructure.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\01-schoolpilot\\schoolpilot-identityserver\\identityserver-api\\src\\schoolpilot_identityserver.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917FE096-72FF-48A8-BE9C-97A4559D36F0}|src\\SchoolPilot_IdentityServer.Infrastructure\\SchoolPilot_IdentityServer.Infrastructure.csproj|solutionrelative:src\\schoolpilot_identityserver.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-IdentityServer\\IdentityServer-Api\\src\\SchoolPilot_IdentityServer.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "src\\SchoolPilot_IdentityServer.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-IdentityServer\\IdentityServer-Api\\src\\SchoolPilot_IdentityServer.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "src\\SchoolPilot_IdentityServer.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAawC4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:43:53.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-IdentityServer\\IdentityServer-Api\\src\\SchoolPilot_IdentityServer.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\SchoolPilot_IdentityServer.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-IdentityServer\\IdentityServer-Api\\src\\SchoolPilot_IdentityServer.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "src\\SchoolPilot_IdentityServer.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAlwIoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:34:33.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

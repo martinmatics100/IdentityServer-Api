@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SchoolPilot_IdentityServer.props" />
+</Project>

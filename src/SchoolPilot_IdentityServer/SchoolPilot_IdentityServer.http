@@ -1,0 +1,6 @@
+@SchoolPilot_IdentityServer_HostAddress = http://localhost:5150
+
+GET {{SchoolPilot_IdentityServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

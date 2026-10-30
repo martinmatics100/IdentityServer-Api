@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\bin\Debug\net8.0\SchoolPilot_IdentityServer.Common.deps.json
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\bin\Debug\net8.0\SchoolPilot_IdentityServer.Common.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\bin\Debug\net8.0\SchoolPilot_IdentityServer.Common.pdb
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\obj\Debug\net8.0\SchoolPilot_IdentityServer.Common.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\obj\Debug\net8.0\SchoolPilot_IdentityServer.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\obj\Debug\net8.0\SchoolPilot_IdentityServer.Common.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\obj\Debug\net8.0\SchoolPilot_IdentityServer.Common.AssemblyInfo.cs
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\obj\Debug\net8.0\SchoolPilot_IdentityServer.Common.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\obj\Debug\net8.0\SchoolPilot_IdentityServer.Common.sourcelink.json
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\obj\Debug\net8.0\SchoolPilot_IdentityServer.Common.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\obj\Debug\net8.0\refint\SchoolPilot_IdentityServer.Common.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\obj\Debug\net8.0\SchoolPilot_IdentityServer.Common.pdb
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-IdentityServer\IdentityServer-Api\src\SchoolPilot_IdentityServer.Common\obj\Debug\net8.0\ref\SchoolPilot_IdentityServer.Common.dll

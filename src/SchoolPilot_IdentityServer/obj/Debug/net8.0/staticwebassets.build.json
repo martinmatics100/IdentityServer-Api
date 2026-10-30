@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GSB/ZKnT/jbODTMoQydiSyzPxQyKCIEzXF7edyFzPQU=",
+  "Source": "SchoolPilot_IdentityServer",
+  "BasePath": "_content/SchoolPilot_IdentityServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
